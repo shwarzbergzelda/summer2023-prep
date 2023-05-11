@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    background: grey;
+    margin-top: 0;
+}
+
+li {
+    margin: 10px;
+}
